@@ -17,16 +17,16 @@
 + List Of Member:
 
 1. Mai Tuấn Tú
-Student1420691
+(Student1420691)
 
 2. Lê Tấn Lâm 
-Student1420701
+(Student1420701)
 
 3. Lê Thị Trang
-Student1414233
+(Student1414233)
 
 4. Ngô Trần Thuấn
-Student1420709
+(Student1420709)
 
 =======================================
 
