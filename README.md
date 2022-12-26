@@ -34,7 +34,7 @@ Documentations : https://github.com/MakaiTu/WilsonSportingGoods_Group04/tree/mai
 
 =======================================
 
-Published website : https://l3nhan.github.io/doodle_group01/
+Published website : https://makaitu.github.io/WilsonSportingGoods_Group04/
 
 =======================================
 
