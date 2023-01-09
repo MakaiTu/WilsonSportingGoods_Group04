@@ -34,7 +34,7 @@ Documentations : [https://github.com/MakaiTu/WilsonSportingGoods_Group04/tree/ma
 
 =======================================
 
-Published website : https://makaitu.github.io/WilsonSportingGoods_Group04/eWilson/e-project/HomePage.html
+Published website : https://makaitu.github.io/WilsonSportingGoods_Group04/eWilson/e-project/eProject/HomePage.html
 
 =======================================
 
